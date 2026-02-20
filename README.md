@@ -30,11 +30,6 @@ Data cleaning was performed to ensure accuracy:
 
 ## 📂 Repository Structure
 * `Cricket_Analysis.pbix`: The main Power BI file.
-* `Screenshots/`: Images of the Batting, Bowling, and Fielding sheets.
-  
-## 📈 Future Roadmap
-* [ ] Complete the **Bowling Analysis** sheet.
-* [ ] Complete the **Fielding Analysis** sheet.
-* [ ] Add a "Player Comparison" view to compare stats side-by-side.
+* `Images/`: Images of the Batting, Bowling, and Fielding sheets.
 
 ---
